@@ -1,0 +1,7 @@
+.contenedor {
+    width: 500px;
+    min-height: 200px;
+    background-color: #ccc;
+    margin: 0 auto;
+    border: 1px solid black;
+}

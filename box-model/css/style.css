@@ -1,0 +1,58 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+
+
+    background-color: rgb(116, 85, 60);
+    color:rgb(240, 232, 232)
+}
+
+
+.header{
+    background-color: rgb(88, 67, 67);
+}
+
+
+.title{
+    width: 500px;
+    background-color: rgb(155, 20, 20);
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+
+.block {
+    background-color: rgb(199, 21, 223);
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    box-sizing: border-box;
+    border:5px solid red;
+}
+
+.inline { background-color: rgb(33, 34, 30);
+color: inherit; color: inherit;
+padding: bottom 100px;
+}
+
+
+.buttons{
+    background-color: rgb(62, 78, 95);
+    
+}
+
+.button{
+    margin-left:400px;
+    padding:100px 50px;
+    border: 20px solid red;
+    border-width:20px ;
+    border-style: solid;
+    border-color: red;
+    border-right-color: rgb(226, 226, 238);
+    border-right-width: 20px; 
+    border-style:outset
+}

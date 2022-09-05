@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "curso css 2021",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.autoSave": "afterDelay",
+		"liveServer.settings.multiRootWorkspaceName": "curso css 2021"
+	}
+}
